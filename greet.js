@@ -3,3 +3,9 @@ function morning(){
 
 }
 morning();
+
+function afernoon(){
+    console.log("Good Afternoon");
+
+}
+afernoon();
